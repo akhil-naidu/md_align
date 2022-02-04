@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hedda",
+			"MuratTheTurkish"
+		]
+	},
+	"md_align.align": "Hizalama",
+	"md_align.toolbar.left.title": "Sol",
+	"md_align.toolbar.center.title": "Merkez",
+	"md_align.toolbar.right.title": "Sağ",
+	"md_align.toolbar.justify.title": "Yasla"
+}

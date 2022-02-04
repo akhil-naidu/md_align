@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira",
+			"Eduardoaddad"
+		]
+	},
+	"md_align.align": "Alinhar",
+	"md_align.toolbar.left.title": "Esquerda",
+	"md_align.toolbar.center.title": "Centro",
+	"md_align.toolbar.right.title": "Direita",
+	"md_align.toolbar.justify.title": "Justificar"
+}

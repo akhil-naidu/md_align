@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rail"
+		]
+	},
+	"md_align.align": "Wyrównanie",
+	"md_align.toolbar.left.title": "Do lewej",
+	"md_align.toolbar.center.title": "Wyśrodkowanie",
+	"md_align.toolbar.right.title": "Do prawej",
+	"md_align.toolbar.justify.title": "Justowanie"
+}

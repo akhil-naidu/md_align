@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"woeterman_94"
+		]
+	},
+	"md_align.align": "Uitlijnen",
+	"md_align.toolbar.left.title": "Links",
+	"md_align.toolbar.right.title": "Rechts",
+	"md_align.toolbar.justify.title": "Uitvullen"
+}

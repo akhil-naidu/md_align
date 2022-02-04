@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lorisobi"
+		]
+	},
+	"md_align.align": "Ausrichtung",
+	"md_align.toolbar.left.title": "Linksbündig",
+	"md_align.toolbar.center.title": "Zentrieren",
+	"md_align.toolbar.right.title": "Rechtsbündig",
+	"md_align.toolbar.justify.title": "Blocksatz"
+}

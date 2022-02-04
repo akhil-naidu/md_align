@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt"
+		]
+	},
+	"md_align.align": "Aliniament",
+	"md_align.toolbar.left.title": "Snistra",
+	"md_align.toolbar.center.title": "Sènter",
+	"md_align.toolbar.right.title": "Drita",
+	"md_align.toolbar.justify.title": "Giustifiché"
+}

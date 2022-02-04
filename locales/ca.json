@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"md_align.align": "Alinear",
+	"md_align.toolbar.left.title": "Esquerra",
+	"md_align.toolbar.center.title": "Centre",
+	"md_align.toolbar.right.title": "Dreta",
+	"md_align.toolbar.justify.title": "Justifica"
+}

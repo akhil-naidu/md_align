@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"md_align.align": "Textjustering",
+	"md_align.toolbar.left.title": "Vänsterjustera",
+	"md_align.toolbar.center.title": "Centrera",
+	"md_align.toolbar.right.title": "Högerjustera",
+	"md_align.toolbar.justify.title": "Marginaljustera"
+}

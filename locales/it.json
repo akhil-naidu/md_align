@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"VamosErik88"
+		]
+	},
+	"md_align.align": "Allinea",
+	"md_align.toolbar.left.title": "Sinistra",
+	"md_align.toolbar.center.title": "Centro",
+	"md_align.toolbar.right.title": "Destra",
+	"md_align.toolbar.justify.title": "Giustificato"
+}

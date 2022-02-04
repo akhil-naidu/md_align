@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maantietäjä"
+		]
+	},
+	"md_align.align": "Kohdista",
+	"md_align.toolbar.left.title": "Vasen",
+	"md_align.toolbar.center.title": "Keskellä",
+	"md_align.toolbar.right.title": "Oikea",
+	"md_align.toolbar.justify.title": "Perustele"
+}
